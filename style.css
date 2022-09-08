@@ -1,0 +1,51 @@
+.nav-link{
+    color: white;
+}
+.navbar{
+    background-color: black;
+    color: white;
+}
+.logo{
+    margin-top: -1px;
+    height:43px;
+}
+.sign{
+    margin-top: 12px;
+    margin-right: 35px;
+    text-decoration: none;
+}
+.sign:hover{
+    color: white;
+    text-decoration: none;
+}
+
+
+.main{
+    position: relative;
+    /* text-align: center; */
+    color: black;
+}
+.data h1{
+    position: absolute;
+    top: 29vh;
+    right: 32vh;
+    font-family:'Times New Roman', Times, serif;
+    /* text-align: left; */
+    font-weight: 900;
+    font-style: bold;
+  }
+.heading p{
+    position: absolute;
+    left: 12vh;
+    right: 32vh;
+}
+.icon{
+    color: black;
+}
+.login_form{
+    margin-top: 90px;
+}
+.nav-link:hover{
+    color:white;
+}
+
